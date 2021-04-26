@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Living Skyrim Unofficial Extras Blog</title>
+        <link>https://jaxomofruatha.github.io/changelog</link>
+        <description>Living Skyrim Unofficial Extras Blog</description>
+        <lastBuildDate>Mon, 26 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog 2021-04-26]]></title>
+            <link>https://jaxomofruatha.github.io/ls-unofficial-extras/changelog/2021/04/26/changelog</link>
+            <guid>Changelog 2021-04-26</guid>
+            <pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Initial launch of the new LS Unofficial Extras site!]]></description>
+        </item>
+    </channel>
+</rss>

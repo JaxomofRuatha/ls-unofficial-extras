@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{79:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Changelog 2021-04-26","permalink":"/ls-unofficial-extras/changelog/2021/04/26/changelog"}]}')}}]);

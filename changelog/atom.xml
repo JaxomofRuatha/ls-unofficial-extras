@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jaxomofruatha.github.io/changelog</id>
+    <title>Living Skyrim Unofficial Extras Blog</title>
+    <updated>2021-04-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jaxomofruatha.github.io/changelog"/>
+    <subtitle>Living Skyrim Unofficial Extras Blog</subtitle>
+    <icon>https://jaxomofruatha.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog 2021-04-26]]></title>
+        <id>Changelog 2021-04-26</id>
+        <link href="https://jaxomofruatha.github.io/ls-unofficial-extras/changelog/2021/04/26/changelog"/>
+        <updated>2021-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Initial launch of the new LS Unofficial Extras site!]]></summary>
+    </entry>
+</feed>
