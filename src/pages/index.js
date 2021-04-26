@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'New Mods and Patches',
+    imageUrl: 'img/icons8-puzzle.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The main reason we're here, finding new mods and patches to add into the Living Skyrim modlist! These will be of varying levels of compatibility, ease of addition to the list, and recommendation from other members of the Living Skyrim community.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Guides and Resources',
+    imageUrl: 'img/icons8-info.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        For those new to doing their own modding, there are guides and links to outside resources for learning and using modding tools.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Custom Modlist Changes and Fixes',
+    imageUrl: 'img/icons8-support.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The base modlist for Living Skyrim is great, but everyone has different priorities and customizations. Included are temporary bugfixes between official Living Skyrim releases, and per-user changes, recommendations, and examples for changing the base modlist before any extras arrive.
       </>
     ),
   },
@@ -59,7 +56,7 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Home`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
@@ -71,8 +68,8 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('mods/')}>
-              Get Started
+              to={useBaseUrl('docs/mods')}>
+              To The Mods!
             </Link>
           </div>
         </div>
